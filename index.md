@@ -1,85 +1,81 @@
----
-layout: default
----
+# Julian Iacoponi
+### Master of Physics with Theoretical Physics, Software Engineer
+- Published study on limits of resolution in displays
+- Master's thesis deriving model for quantum transport in nanoelectromechanical systems
+- Cloud videoconferencing software tester, Python programmer
+- Looking for opportunities in graduate research in quantum technologies
 
-Tired of using LaTeX to make your CV look pretty? Can't remember how to set margins in your TeX file? Refusing to compromise and "just use Word"?
+<a class="mailto" href="mailto:julian.iacoponi@gmail.com">Email</a>
 
-[markdown-cv](http://elipapa.github.io/markdown-cv/) is a simple template to list all your accomplishments in a readable Markdown file. It uses CSS to style your text into a stylish web page. It can also be printed as PDF.
-
-### what does that mean?
-
-Write your CV like this...
-
-<img src="img/mdown.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
-
-and use [jekyll](https://jekyllrb.com/) or [github pages](https://pages.github.com/) to make it look like this..
-
-<img src="img/output.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
+<div id="webaddress">
+ <a href="https://github.com/julianiacoponi">GitHub</a> | <a href="https://www.researchgate.net/profile/Julian_Iacoponi">ResearchGate</a>
+</div>
 
 
+[Education](#Education) | [Publications](#Publications) | [Professional Experience](#Professional-Experience) | [Other Activities](#Other-Activities)
 
-## Usage
+## Currently
 
-To start, simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
+Software Engineer in Test, Cloud Media Engineering, Cisco
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+Specialised in: Python, GStreamer, Autotesting, Continuous deployment
 
-and then [edit directly in github](https://help.github.com/articles/editing-files-in-your-repository/) the `index.md` file
+## Research interests
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+Quantum information, quantum computing, quantum sensing, quantum cryptography, quantum gravity
 
-adding your skills, jobs and education.
+## Education
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+`September 2013 - June 2017` " | __MSci & ARCS in Physics with Theoretical Physics__ | Imperial College London, London, UK
+- Thesis: "*Putting the Quantum into Mechanics: Modelling Electron Transport in Nanoelectromechanical Systems*"
+- Supervisor: Prof. Angus MacKinnon (Condensed Matter Theory Group)
+- 1:1 (First Class Honours)
 
-To transform your plain text CV into a beautiful looking HTML page and share it you then have two options:
+`January 2001 - July 2012` | __A-levels & GCSEs__ | Berkhamsted School, Berkhamsted, UK
+- 6 A-levels (4A*s, 2As)
+- 13 GCSEs (13A*s), 1 FSMQ (A)
 
-### 1) Using Github Pages to publish it online
+## Publications
 
-1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch)
-2. Create a new branch called `gh-pages` (which will then be a copy of master)
-3. Head to *yourusername*.github.io/markdown-cv to see your CV live.
-
-Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
-
-### 2) Build it locally
-1. [install jekyll](https://jekyllrb.com/docs/installation/) on your computer. `gem install jekyll` will do for most users.
-2. Clone your fork on your computer
-3. Type `jekyll serve` and you'll be able to see your CV on your local host (the default address is http://localhost:4000).
-4. You can edit the `index.md` file and see changes live in your browser.
-
-## How do I print the PDF?
-Whether you used Github Pages or a local installation of Jekyll, to print a PDF just press *Print* in your browser. Print specific [CSS media queries](http://www.joshuawinn.com/css-print-media-query/) will take care of the styling.
-
-## is this the only style available?
-
-The included CSS renders your CV in different styles:
-
-- `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita)
-
-<img src="img/styles/kjhealy.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
-
-- `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned, authored by [David Whipp](https://davewhipp.github.io/markdown-cv/)
-
-<img src="img/styles/davewhipp.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
-
-To change the default style, one needs to simply change `site` the variable in the
-`_config.yml` file.
-
-Any other styling is possible. More CSS style contributions and forks are welcome!
+[Spencer, Lee & Iacoponi, Julian & Shah, Sunay & Cairns, Graham. (2013). P.134L: Late News Poster: "*Resolution Limits for Smartphones — Video Playback*". SID Symposium Digest of Technical Papers. 44. 10.1002/j.2168-0159.2013.tb06417.x.](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2168-0159.2013.tb06417.x)
 
 
+## Professional Experience
 
-### Author
+`January 2018 – ongoing` | __Software Engineer in Test, Cloud Media Engineering__ | Cisco Systems, Bedfont Lakes, Feltham
+- Developer of the testing framework, including autotests, for the video composition and transcoding service of Webex, Cisco’s world-leading cloud videoconferencing platform.
+- Responsible for programming realistic simulations of new features of this microservice for its automated testing pipeline.
+- This includes the generating, sending, receiving, decoding and analysing of media packets (using Python bindings for GStreamer), as well as the network signalling (using Docker on Linux) and platform development (with Kubernetes and AWS) necessary to interact with the service in a realistic way.
+- Member of the team responsible for maintaining, improving, and ensuring the veracity of the automated testing pipeline, which continuously deploys code daily to datacentres across the globe.
+- Member of the team responsible for around-the-clock continuous operation of the service, including responding to alerts and resolving incidents in real-time.
 
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[GitHub](http://github.com/elipapa)/[website](https://elipapa.github.io)).
+`September 2017 – January 2018` | __Software Engineer in the Performance and Scalability__ | Citrix Systems UK, Chalfont St. Peter
+- Introduction to Citrix's virtualization software.
 
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
+`June 2016 – July 2016` | __Summer Research Intern in Small-Angle Neutron Beam Scattering__ | ISIS Neutron Beam, Rutherford Labs, Oxford
+- Using Python, I rewrote and redesigned a programme to calculate the reflection angles and shadow lengths of a neutron beam through a system of slits.
 
-### License
+`August 2012 – September 2013` | __Year in Industry Student__ | Sharp Laboratories of Europe, Oxford
+- One-year placement researching the optical properties of LCDs used in the smartphone, laptop and television industries.
+- 2nd name on a publication of a study investigating the limits of human visual perception at increasing pixel densities.
+- Published in the Society of Information Display’s 2013 international digest of technical papers.
+- Responsible for organising and analysing large sets of both detector-collected & human-factors data.
+- Experience building numerical models of reflectivity and testing them against results from self-designed experiments.
 
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+## Skills
 
-<a href="https://github.com/elipapa/markdown-cv" class="github-corner"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
+`Programming`
+- Python, GStreamer, Bash, Docker, Git, (Advanced)
+- C++, Kubernetes, Mathematica (Intermediate)
+- C, Keras, Rust, Powershell (Introductory)
+
+`Topics`: Theoretical Physics, Videoconferencing, Media, Networking, Continuous Deployment, Cloud, Screen technology
+
+`Languages`: English, Portuguese (Fluent), Spanish (Conversational)
+
+`Other`: Full, clean UK Driver’s License.
+
+
+<!-- ### Footer
+
+Last updated: December 2020 -->
