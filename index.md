@@ -75,8 +75,3 @@ __Year in Industry Student__
 `Languages`: English, Portuguese (Fluent), Spanish (Conversational)
 
 `Other`: Full, clean UK Driver’s License.
-
-
-<!-- ### Footer
-
-Last updated: January 2021 -->
