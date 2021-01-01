@@ -8,7 +8,7 @@
 [Email](mailto:julian.iacoponi@gmail.com) | [ResearchGate](https://www.researchgate.net/profile/Julian_Iacoponi) | [GitHub](https://github.com/julianiacoponi)
 
 
-[Education](#Education) | [Publications](#Publications) | [Professional Experience](#Professional-Experience) | [Other Activities](#Other-Activities)
+[Publications](#Publications) | [Education](#Education) | [Professional Experience](#Professional-Experience) | [Other Activities](#Other-Activities)
 
 ## Currently
 
@@ -26,20 +26,22 @@ Quantum information, quantum computing, quantum sensing, quantum cryptography, q
 
 ## Education
 
-`September 2013 - June 2017` | *Imperial College London, London, UK*
+`September 2013 - June 2017` *Imperial College London, London, UK*
+
 __MSci & ARCS in Physics with Theoretical Physics__
 - Thesis: "*Putting the Quantum into Mechanics: Modelling Electron Transport in Nanoelectromechanical Systems*"
 - Supervisor: Prof. Angus MacKinnon (Condensed Matter Theory Group)
 - 1:1 (First Class Honours)
 
-`January 2001 - July 2012` | *Berkhamsted School, Berkhamsted, UK*
+`January 2001 - July 2012` *Berkhamsted School, Berkhamsted, UK*
 - 6 A-levels (4A*s, 2As)
 - 13 GCSEs (13A*s), 1 FSMQ (A)
 
 
 ## Professional Experience
 
-`January 2018 – ongoing` | *Cisco Systems, Bedfont Lakes, Feltham*
+`January 2018 – ongoing` *Cisco Systems, Bedfont Lakes, Feltham*
+
 __Software Engineer in Test, Cloud Media Engineering__
 - Developer of the testing framework, including autotests, for the video composition and transcoding service of Webex, Cisco’s world-leading cloud videoconferencing platform.
 - Responsible for programming realistic simulations of new features of this microservice for its automated testing pipeline.
@@ -47,15 +49,18 @@ __Software Engineer in Test, Cloud Media Engineering__
 - Member of the team responsible for maintaining, improving, and ensuring the veracity of the automated testing pipeline, which continuously deploys code daily to datacentres across the globe.
 - Member of the team responsible for around-the-clock continuous operation of the service, including responding to alerts and resolving incidents in real-time.
 
-`September 2017 – January 2018` | *Citrix Systems UK, Chalfont St. Peter*
+`September 2017 – January 2018` *Citrix Systems UK, Chalfont St. Peter*
+
 __Software Engineer in Performance and Scalability__
 - Introduction to Citrix's virtualization software.
 
-`June 2016 – July 2016` | *ISIS Neutron Beam, Rutherford Labs, Oxford*
+`June 2016 – July 2016` *ISIS Neutron Beam, Rutherford Labs, Oxford*
+
 __Summer Research Intern in Small-Angle Neutron Beam Scattering__
 - Using Python, I rewrote and redesigned a programme to calculate the reflection angles and shadow lengths of a neutron beam through a system of slits.
 
-`August 2012 – September 2013` | *Sharp Laboratories of Europe, Oxford*
+`August 2012 – September 2013` *Sharp Laboratories of Europe, Oxford*
+
 __Year in Industry Student__
 - One-year placement researching the optical properties of LCDs used in the smartphone, laptop and television industries.
 - 2nd name on a publication of a study investigating the limits of human visual perception at increasing pixel densities.
