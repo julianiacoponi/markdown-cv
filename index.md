@@ -2,7 +2,7 @@
 ### Master of Physics with Theoretical Physics, Software Engineer
 - Published study on limits of resolution in displays
 - Master's thesis deriving model for quantum transport in nanoelectromechanical systems
-- Cloud videoconferencing software tester, Python programmer
+- Python programmer, cloud media videoconferencing software tester
 - Looking for opportunities in graduate research in quantum technologies
 
 [Email](mailto:julian.iacoponi@gmail.com) | [ResearchGate](https://www.researchgate.net/profile/Julian_Iacoponi) | [GitHub](https://github.com/julianiacoponi)
@@ -71,7 +71,7 @@ __Year in Industry Student__
 ## Skills
 
 `Programming`
-- Python, GStreamer, Bash, Docker, Git, (Advanced)
+- Python, GStreamer, Bash, Docker, Git (Advanced)
 - C++, Kubernetes, Mathematica (Intermediate)
 - C, Keras, Rust, Powershell (Introductory)
 
