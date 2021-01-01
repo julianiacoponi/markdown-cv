@@ -5,20 +5,22 @@
 - Cloud videoconferencing software tester, Python programmer
 - Looking for opportunities in graduate research in quantum technologies
 
+<a class="mailto" href="mailto:julian.iacoponi@gmail.com">Email</a>
+
 <div id="webaddress">
-<a href="https://www.researchgate.net/profile/Julian_Iacoponi>ResearchGate</a>
+ <a href="https://github.com/julianiacoponi">GitHub</a> | <a href="https://www.researchgate.net/profile/Julian_Iacoponi">ResearchGate</a> |
 </div>
 
-<a class="mailto" href="mailto:julian.iacoponi@gmail.com">Email</a>
 
 [Education](#Education) | [Publications](#Publications) | [Professional Experience](#Professional-Experience) | [Other Activities](#Other-Activities)
 
 ## Currently
 
 Software Engineer in Test, Cloud Media Engineering, Cisco
-*specialized in*: Python, GStreamer, Autotesting, Continuous deployment
 
-### Research interests
+Specialised in: Python, GStreamer, Autotesting, Continuous deployment
+
+## Research interests
 
 Quantum information, quantum computing, quantum sensing, quantum cryptography, quantum gravity
 
@@ -62,9 +64,15 @@ Quantum information, quantum computing, quantum sensing, quantum cryptography, q
 
 ## Skills
 
-`Programming`: Python, GStreamer, Bash, Docker, Git, (Advanced), C++, Kubernetes, Mathematica (Intermediate), C, Keras, Rust, Powershell (Introductory)
-`Topics`: Theoretical Physics, Videoconferencing, Media, Networking, Screen technology, Continuous deployment
+`Programming`
+- Python, GStreamer, Bash, Docker, Git, (Advanced)
+- C++, Kubernetes, Mathematica (Intermediate)
+- C, Keras, Rust, Powershell (Introductory)
+
+`Topics`: Theoretical Physics, Videoconferencing, Media, Networking, Continuous Deployment, Cloud, Screen technology
+
 `Languages`: English, Portuguese (Fluent), Spanish (Conversational)
+
 `Other`: Full, clean UK Driver’s License.
 
 
