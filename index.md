@@ -8,7 +8,7 @@
 <a class="mailto" href="mailto:julian.iacoponi@gmail.com">Email</a>
 
 <div id="webaddress">
- <a href="https://github.com/julianiacoponi">GitHub</a> | <a href="https://www.researchgate.net/profile/Julian_Iacoponi">ResearchGate</a> |
+ <a href="https://github.com/julianiacoponi">GitHub</a> | <a href="https://www.researchgate.net/profile/Julian_Iacoponi">ResearchGate</a>
 </div>
 
 
