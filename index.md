@@ -51,7 +51,7 @@ __Software Engineer in Test, Cloud Media Engineering__
 
 `September 2017 – January 2018` *Citrix Systems UK, Chalfont St. Peter*
 
-__Software Engineer in Performance and Scalability__
+__Software Engineer, Performance and Scalability__
 - Introduction to Citrix's virtualization software.
 
 `June 2016 – July 2016` *ISIS Neutron Beam, Rutherford Labs, Oxford*
@@ -61,7 +61,7 @@ __Summer Research Intern in Small-Angle Neutron Beam Scattering__
 
 `August 2012 – September 2013` *Sharp Laboratories of Europe, Oxford*
 
-__Year in Industry Student__
+__Year in Industry Student, Display Research & Development__
 - One-year placement researching the optical properties of LCDs used in the smartphone, laptop and television industries.
 - 2nd name on a publication of a study investigating the limits of human visual perception at increasing pixel densities.
 - Published in the Society of Information Display’s 2013 international digest of technical papers.
