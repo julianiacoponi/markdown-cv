@@ -1,29 +1,17 @@
 # Julian Iacoponi
 ### Master of Physics with Theoretical Physics, Software Engineer
-- Published study on limits of resolution in displays
-- Master's thesis deriving model for quantum transport in nanoelectromechanical systems
-- Python programmer, cloud media videoconferencing software tester
-- Looking for opportunities in graduate research in quantum technologies
-
 [Email](mailto:julian.iacoponi@gmail.com) | [ResearchGate](https://www.researchgate.net/profile/Julian_Iacoponi) | [GitHub](https://github.com/julianiacoponi)
+- **Published study** on limits of resolution in displays.
+- **Master's thesis** deriving model for quantum transport in nanoelectromechanical systems.
+- **Python programmer**, cloud media videoconferencing software tester.
+- **Currently exploring line of research** with Prof. Florian Mintert (Imperial College, Quantum Optics and Laser Science) in investigating quantum control with Bayesian optimization.
+- **Research interests**: quantum information, quantum computing, quantum sensing, quantum cryptography, quantum gravity.
+___
+## Publications & Posters
 
-
-[Publications](#Publications) | [Education](#Education) | [Professional Experience](#Professional-Experience) | [Other Activities](#Other-Activities)
-
-## Currently
-
-Software Engineer in Test, Cloud Media Engineering, Cisco
-
-Specialised in: Python, GStreamer, Autotesting, Continuous deployment
-
-## Research interests
-
-Quantum information, quantum computing, quantum sensing, quantum cryptography, quantum gravity
-
-## Publications
-
-[Spencer, Lee & Iacoponi, Julian & Shah, Sunay & Cairns, Graham. (2013). P.134L: Late News Poster: "*Resolution Limits for Smartphones — Video Playback*". SID Symposium Digest of Technical Papers. 44. 10.1002/j.2168-0159.2013.tb06417.x](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2168-0159.2013.tb06417.x)
-
+- [Spencer, Lee & Iacoponi, Julian & Shah, Sunay & Cairns, Graham. (2013). P.134L: Late News Poster: "*Resolution Limits for Smartphones — Video Playback*". SID Symposium Digest of Technical Papers. 44. 10.1002/j.2168-0159.2013.tb06417.x](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2168-0159.2013.tb06417.x)
+- Late News Poster presented in Applied Vision at SID International Symposium, May 23rd 2013
+___
 ## Education
 
 `September 2013 - June 2017` *Imperial College London, London, UK*
@@ -34,20 +22,19 @@ __MSci & ARCS in Physics with Theoretical Physics__
 - 1:1 (First Class Honours)
 
 `January 2001 - July 2012` *Berkhamsted School, Berkhamsted, UK*
-- 6 A-levels (4A*s, 2As)
-- 13 GCSEs (13A*s), 1 FSMQ (A)
-
-
+- 6 A-levels (4A\*s, 2As), 13 GCSEs (13A\*s), 1 FSMQ (A)
+___
 ## Professional Experience
 
 `January 2018 – ongoing` *Cisco Systems, Bedfont Lakes, Feltham*
 
 __Software Engineer in Test, Cloud Media Engineering__
-- Developer of the testing framework, including autotests, for the video composition and transcoding service of Webex, Cisco’s world-leading cloud videoconferencing platform.
-- Responsible for programming realistic simulations of new features of this microservice for its automated testing pipeline.
-- This includes the generating, sending, receiving, decoding and analysing of media packets (using Python bindings for GStreamer), as well as the network signalling (using Docker on Linux) and platform development (with Kubernetes and AWS) necessary to interact with the service in a realistic way.
-- Member of the team responsible for maintaining, improving, and ensuring the veracity of the automated testing pipeline, which continuously deploys code daily to datacentres across the globe.
-- Member of the team responsible for around-the-clock continuous operation of the service, including responding to alerts and resolving incidents in real-time.
+- **Developer of the testing framework**, including autotests, for the video composition and transcoding service of Webex, Cisco’s world-leading cloud videoconferencing platform.
+- **Responsible for** the programming of and experimentation of realistic simulations of new features for an automated testing pipeline. This involves: generating, sending, receiving, decoding and analysing of media packets (using Python bindings for GStreamer), as well as the network signalling (using Docker on Linux) and platform development (with Kubernetes and AWS) necessary for realistic simulations.
+- **Responsible for** maintaining, improving, and ensuring the veracity of the automated testing pipeline, which allows for the continuous deployment of code to datacentres across the globe.
+- **Responsible for** around-the-clock continuous operation of the service, including responding to alerts and resolving urgent customer incidents in real-time.
+- **Presented** “Anatomy of an Autotest Architecture” at Cisco TechZone X UK 2020.
+
 
 `September 2017 – January 2018` *Citrix Systems UK, Chalfont St. Peter*
 
@@ -67,15 +54,20 @@ __Year in Industry Student, Display Research & Development__
 - Published in the Society of Information Display’s 2013 international digest of technical papers.
 - Responsible for organising and analysing large sets of both detector-collected & human-factors data.
 - Experience building numerical models of reflectivity and testing them against results from self-designed experiments.
-
-## Skills
+- Achieved distinction in Loughborough University’s Maths for Engineers (LUMEN) programme.
+___
+## Training & Skills
+`Courses`
+- **Advanced Python** (5-day workshop), Miki Tebeka, CEO 353solutions
+- **Introduction to Machine-Learning** (5-day workshop), Brad Gillespie, CEO WSDFirm
+- **DataCamp (15 courses)**, including: Supervised & Unsupervised Learning in Python, Deep Learning in Python, Python Data Science Toolbox, Convolutional Neural Networks for Image Processing
 
 `Programming`
 - Python, GStreamer, Bash, Docker, Git (Advanced)
 - C++, Kubernetes, Mathematica (Intermediate)
 - C, Keras, Rust, Powershell (Introductory)
 
-`Topics`: Theoretical Physics, Videoconferencing, Media, Networking, Continuous Deployment, Cloud, Screen technology
+`Topics`: Theoretical Physics, Videoconferencing, Media, Networking, Continuous Deployment, Cloud, Display Technology, Machine Learning
 
 `Languages`: English, Portuguese (Fluent), Spanish (Conversational)
 
