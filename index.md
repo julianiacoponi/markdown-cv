@@ -50,8 +50,7 @@ __Summer Research Intern in Small-Angle Neutron Beam Scattering__
 
 __Year in Industry Student, Display Research & Development__
 - Responsible for testing and researching the optical properties of LCDs used in the smartphone, laptop and television industries.
-- 2nd name on a publication of a study investigating the limits of human visual perception at increasing pixel densities.
-- Published in the Society of Information Display’s 2013 international digest of technical papers.
+- 2nd name on a publication of a study investigating the limits of human visual perception at increasing pixel densities, published in the Society of Information Display’s 2013 international digest of technical papers.
 - Responsible for organising and analysing large sets of both detector-collected & human-factors data.
 - Experience building numerical models of reflectivity and testing them against results from self-designed experiments.
 - Achieved distinction in Loughborough University’s Maths for Engineers (LUMEN) programme.
@@ -61,7 +60,7 @@ ___
 - **Advanced Python** (5-day workshop), Miki Tebeka, CEO *353solutions*
 - **Introduction to Machine-Learning** (5-day workshop), Brad Gillespie, CEO *WSDFirm*
 - **DataCamp (15 courses)**, including: Supervised & Unsupervised Learning in Python, Deep Learning in Python, Python Data Science Toolbox, Convolutional Neural Networks for Image Processing
-- **Quantum Computing Foundations**: an introduction to Q#, [https://docs.microsoft.com/en-us/learn/paths/quantum-computing-fundamentals/]
+- [**Quantum Computing Foundations**](https://docs.microsoft.com/en-us/learn/paths/quantum-computing-fundamentals/): an introduction to Q#
 
 `Programming`
 - **Advanced**: Python, GStreamer, Bash, Docker, Git
