@@ -4,7 +4,7 @@
 - **Published study** on limits of resolution in displays.
 - **Master's thesis** deriving model for quantum transport in nanoelectromechanical systems.
 - **Python programmer**, cloud media videoconferencing software tester.
-- **Currently exploring line of research** with Prof. Florian Mintert (Imperial College, Quantum Optics and Laser Science) in investigating quantum control with Bayesian optimization.
+- **Currently exploring line of research** with Prof. Florian Mintert (Imperial College, Quantum Optics and Laser Science) investigating quantum control with Bayesian optimization.
 - **Research interests**: quantum information, quantum computing, quantum sensing, quantum cryptography, quantum gravity.
 ___
 ## Publications & Posters
@@ -49,7 +49,7 @@ __Summer Research Intern in Small-Angle Neutron Beam Scattering__
 `August 2012 – September 2013` *Sharp Laboratories of Europe, Oxford*
 
 __Year in Industry Student, Display Research & Development__
-- One-year placement researching the optical properties of LCDs used in the smartphone, laptop and television industries.
+- Responsible for testing and researching the optical properties of LCDs used in the smartphone, laptop and television industries.
 - 2nd name on a publication of a study investigating the limits of human visual perception at increasing pixel densities.
 - Published in the Society of Information Display’s 2013 international digest of technical papers.
 - Responsible for organising and analysing large sets of both detector-collected & human-factors data.
@@ -58,17 +58,20 @@ __Year in Industry Student, Display Research & Development__
 ___
 ## Training & Skills
 `Courses`
-- **Advanced Python** (5-day workshop), Miki Tebeka, CEO 353solutions
-- **Introduction to Machine-Learning** (5-day workshop), Brad Gillespie, CEO WSDFirm
+- **Advanced Python** (5-day workshop), Miki Tebeka, CEO *353solutions*
+- **Introduction to Machine-Learning** (5-day workshop), Brad Gillespie, CEO *WSDFirm*
 - **DataCamp (15 courses)**, including: Supervised & Unsupervised Learning in Python, Deep Learning in Python, Python Data Science Toolbox, Convolutional Neural Networks for Image Processing
+- **Quantum Computing Foundations**: an introduction to Q#, [https://docs.microsoft.com/en-us/learn/paths/quantum-computing-fundamentals/]
 
 `Programming`
-- Python, GStreamer, Bash, Docker, Git (Advanced)
-- C++, Kubernetes, Mathematica (Intermediate)
-- C, Keras, Rust, Powershell (Introductory)
+- **Advanced**: Python, GStreamer, Bash, Docker, Git
+- **Intermediate**: C++, Kubernetes, Mathematica
+- **Introductory**: C, Keras, scikit-learn, Rust, Powershell, Q#
 
 `Topics`: Theoretical Physics, Videoconferencing, Media, Networking, Continuous Deployment, Cloud, Display Technology, Machine Learning
 
 `Languages`: English, Portuguese (Fluent), Spanish (Conversational)
+
+`Hobbies`: I play piano (performed in [*Park Motive*](https://open.spotify.com/artist/05vVB8EbQEooYOY4vogV5I) at Green Man fesitval 2018) and also write my own music (jazz/bossa nova-influenced). Having a Brazilian father, I love to play football (Imperial 1st XI) and also tennis (Singles Box League Champion, Bovingdon & Flaunden Tennis Club).
 
 `Other`: Full, clean UK Driver’s License.
