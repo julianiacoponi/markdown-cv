@@ -17,7 +17,7 @@ ___
 `September 2013 - June 2017` *Imperial College London, London, UK*
 
 __MSci & ARCS in Physics with Theoretical Physics__
-- Thesis: "*Putting the Quantum into Mechanics: Modelling Electron Transport in Nanoelectromechanical Systems*"
+- [Thesis: "*Putting the Quantum into Mechanics: Modelling Electron Transport in Nanoelectromechanical Systems*"](https://github.com/julianiacoponi/markdown-cv/blob/master/MSci%20Project%20Report.pdf)
 - Supervisor: Prof. Angus MacKinnon (Condensed Matter Theory Group)
 - 1:1 (First Class Honours)
 
