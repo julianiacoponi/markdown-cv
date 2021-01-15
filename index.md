@@ -41,7 +41,7 @@ __Software Engineer in Test, Cloud Media Engineering__
 __Software Engineer, Performance and Scalability__
 - Introduction to Citrix's virtualization software.
 
-`June 2016 – July 2016` *ISIS Neutron Beam, Rutherford Labs, Oxford*
+`July – August 2016` *ISIS Neutron Beam & Source, Rutherford Appleton Laboratories, Oxford*
 
 __Summer Research Intern in Small-Angle Neutron Beam Scattering__
 - Using Python, I rewrote and redesigned a programme to calculate the reflection angles and shadow lengths of a neutron beam through a system of slits.
