@@ -1,7 +1,7 @@
 # Julian Iacoponi
 ### Master of Physics with Theoretical Physics, Software Engineer
 [Email](mailto:julian.iacoponi@gmail.com) | [ResearchGate](https://www.researchgate.net/profile/Julian_Iacoponi) | [GitHub](https://github.com/julianiacoponi)
-- ****Researching** levitated-cavity coherent-scattering quantum optomechanical setups.
+- **Researching** levitated-cavity coherent-scattering quantum optomechanical setups.
 - **Master's thesis** deriving model for quantum transport in nanoelectromechanical systems.
 - **Published study** on the limits of human visual perception at increasing pixel densities.
 - **Python programmer**, cloud media videoconferencing software tester.
