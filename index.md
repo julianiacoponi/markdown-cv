@@ -1,11 +1,10 @@
 # Julian Iacoponi
 ### Master of Physics with Theoretical Physics, Software Engineer
 [Email](mailto:julian.iacoponi@gmail.com) | [ResearchGate](https://www.researchgate.net/profile/Julian_Iacoponi) | [GitHub](https://github.com/julianiacoponi)
-- **Published study** on limits of resolution in displays.
+- ****Researching** levitated-cavity coherent-scattering quantum optomechanical setups.
 - **Master's thesis** deriving model for quantum transport in nanoelectromechanical systems.
+- **Published study** on the limits of human visual perception at increasing pixel densities.
 - **Python programmer**, cloud media videoconferencing software tester.
-- **Currently exploring line of research** with Prof. Florian Mintert (Imperial College, Quantum Optics and Laser Science) investigating quantum control with Bayesian optimization.
-- **Research interests**: quantum information, quantum computing, quantum sensing, quantum cryptography, quantum gravity.
 ___
 ## Publications & Posters
 
@@ -13,6 +12,12 @@ ___
 - Late News Poster presented in Applied Vision at SID International Symposium, May 23rd 2013
 ___
 ## Education
+
+`September 2021 - Ongoing` *University College London, London, UK*
+
+__MPhil/PhD Candidate, 4-year EPSRC DTP Research Studentship__
+- Quantum Sensing & Optomechanics Group
+- Supervisors: Prof. Tania Monteiro, Prof. Peter Barker
 
 `September 2013 - June 2017` *Imperial College London, London, UK*
 
@@ -63,8 +68,8 @@ ___
 - [**Quantum Computing Foundations**](https://docs.microsoft.com/en-us/learn/paths/quantum-computing-fundamentals/): an introduction to Q#
 
 `Programming`
-- **Advanced**: Python, GStreamer, Bash, Docker, Git
-- **Intermediate**: C++, Kubernetes, Mathematica
+- **Advanced**: Mathematica, Python, GStreamer, Bash, Docker, Git
+- **Intermediate**: Fortran, C++, Kubernetes
 - **Introductory**: C, Keras, scikit-learn, Rust, Powershell, Q#
 
 `Topics`: Theoretical Physics, Videoconferencing, Media, Networking, Continuous Deployment, Cloud, Display Technology, Machine Learning
