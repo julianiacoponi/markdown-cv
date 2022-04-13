@@ -31,7 +31,7 @@ __MSci & ARCS in Physics with Theoretical Physics__
 ___
 ## Professional Experience
 
-`January 2018 – ongoing` *Cisco Systems, Bedfont Lakes, Feltham*
+`January 2018 – July 2021` *Cisco Systems, Bedfont Lakes, Feltham*
 
 __Software Engineer in Test, Cloud Media Engineering__
 - **Developer of the testing framework**, including autotests, for the video composition and transcoding service of Webex, Cisco’s world-leading cloud videoconferencing platform.
